@@ -1,5 +1,8 @@
 # webgestalt_tutorial
 
+> [!TIP]
+> If you have questions about this tutorial, please [ask in discussions](https://github.com/bzhanglab/webgestalt_tutorial/discussions/new?category=help-wanted). If you think you have spotted a bug, please [leave an issue](https://github.com/bzhanglab/webgestalt_tutorial/issues/new).
+
 Tutorial of how to start from abundance data to using WebGestalt for Enrichment Analysis. You can download all the code from this repository [here](https://github.com/bzhanglab/webgestalt_tutorial/archive/refs/heads/main.zip).
 
 
